@@ -9,7 +9,8 @@ To participate in this assignment, please follow these steps:
 - Add your name to the CONTRIBUTORS.md file.
 - Commit your changes and push the branch to your forked repository.
 - Open a pull request to merge your branch into the main repository.
-- Once your pull request is reviewed and approved, your name will be added to the list of contributors!
+
+Once your pull request is reviewed and approved, your name will be added to the list of contributors!
 
 ## Why Participate
 Participating in this assignment will help you practice Git and GitHub skills that are essential for any developer. By creating branches and submitting pull requests, you'll learn how to collaborate with other developers and contribute to open source projects. Plus, you'll get the chance to see your name on the list of contributors!
