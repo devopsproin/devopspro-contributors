@@ -6,3 +6,4 @@ Thank you to the following contributors for participating in the Git and GitHub 
 - Rhythm Bhiwani
 - Priyanka Soni
 - Rishika
+- Rohit Sharma
