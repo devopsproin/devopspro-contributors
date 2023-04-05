@@ -18,6 +18,6 @@ Participating in this assignment will help you practice Git and GitHub skills th
 ## Watch the Video
 If you haven't already, please watch the Git and GitHub crash course video on the DevOpsPro YouTube channel to get started. The video covers the basics of Git and GitHub and will help you complete this assignment with ease.
 
-Git and GitHub Crash Course Video
+[Git and GitHub Crash Course Video](https://youtu.be/C01FBGV_1t8)
 
 Thank you for participating in this assignment and for your interest in DevOpsPro!
