@@ -8,3 +8,4 @@ Thank you to the following contributors for participating in the Git and GitHub 
 - Rishika
 - Rohit Sharma
 - Harshal Suthar
+- Subhendu Sekhar Patro
