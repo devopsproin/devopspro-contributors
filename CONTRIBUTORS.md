@@ -11,3 +11,4 @@ Thank you to the following contributors for participating in the Git and GitHub 
 - Subhendu Sekhar Patro
 - Rahul Patel
 - Maninder Singh
+- Polite Pious
