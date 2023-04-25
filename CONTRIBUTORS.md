@@ -12,3 +12,4 @@ Thank you to the following contributors for participating in the Git and GitHub 
 - Rahul Patel
 - Maninder Singh
 - Polite Pious
+- [Anjaneya Tiwari](https://github.com/ptiwari6239)
