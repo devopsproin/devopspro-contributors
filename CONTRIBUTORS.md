@@ -19,3 +19,6 @@ Thank you to the following contributors for participating in the Git and GitHub 
 - Gopal Gautam
 - Deepak Kumar
 - Farooq rehman (pak)
+- Madhuri Wankar
+- Ganesh Sanap
+- Amit Kashyap
