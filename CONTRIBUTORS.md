@@ -22,3 +22,4 @@ Thank you to the following contributors for participating in the Git and GitHub 
 - Madhuri Wankar
 - Ganesh Sanap
 - Amit Kashyap
+- Nikhil Kataria
