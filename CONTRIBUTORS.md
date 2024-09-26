@@ -28,3 +28,5 @@ Thank you to the following contributors for participating in the Git and GitHub 
 - Muhsan Javed
 - Sarfaraz Ansari
 - Prafull Borkute
+- Kushal Pokharel
+- 
